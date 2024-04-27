@@ -28,3 +28,8 @@ Este é um formulário de inscrição em newsletter com validação de e-mail e 
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
+2. Instale as dependências:
+   npm install
+3. Inicie o servidor de desenvolvimento:
+   npm run dev
+
